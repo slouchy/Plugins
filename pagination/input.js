@@ -94,6 +94,7 @@
 			}
 
 			nInput.type = 'text';
+			nInput.style = 'width: 40px; text-align: center;';
 			nPage.innerHTML = 'Page ';
 
 			nPaging.appendChild(nFirst);
